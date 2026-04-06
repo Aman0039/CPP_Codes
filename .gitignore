@@ -1,1 +1,10 @@
-./test.exe
+# executables
+*.exe
+*.out
+
+# object files
+*.o
+*.obj
+
+# build folders
+build/
